@@ -6,7 +6,7 @@
 
 ---
 
-Reaper is an experimental project focused on **DMA-based tooling and external system interaction**.
+Fortnite (DMA) is an experimental project focused on **DMA-based tooling and external system interaction**.
 This repository contains documentation and example components related to working with **DMA devices and secondary processing systems**.
 
 ---
