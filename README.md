@@ -1,8 +1,8 @@
 # Reaper 🚀
 ---
 
-!(<img width="884" height="550" alt="M" src="https://github.com/user-attachments/assets/5b0533fc-8998-434c-b56c-574b91cb2663" />
-)
+<img width="884" height="550" alt="M" src="https://github.com/user-attachments/assets/5b0533fc-8998-434c-b56c-574b91cb2663" />
+
 
 ---
 
