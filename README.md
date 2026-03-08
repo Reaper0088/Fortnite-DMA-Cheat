@@ -45,7 +45,7 @@ If files are missing, the software may fail to start.
 
 ## 📋 Requirements
 
-To run Reaper you will need:
+To run Fortnite (DMA) you will need:
 
 * 🧠 DMA-compatible hardware
 * 🖥️ Secondary processing PC
