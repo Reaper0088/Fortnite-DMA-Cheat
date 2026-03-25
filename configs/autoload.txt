@@ -1,0 +1,5 @@
+{
+    "autoloadEnabled": true,
+    "configFile": "configs\\Reaper.cfg",
+    "selectedConfigIndex": 1
+}
